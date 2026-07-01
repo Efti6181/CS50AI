@@ -6,6 +6,13 @@ This repository documents my completion of **CS50's Introduction to Artificial I
 
 Through a combination of theoretical learning and hands-on programming projects, I gained practical experience in designing and implementing intelligent systems using Python.
 
+## Certificate
+
+**Course:** CS50's Introduction to Artificial Intelligence with Python
+**Provider:** HarvardX via edX
+<img width="1045" height="792" alt="cs50ai" src="https://github.com/user-attachments/assets/19e8aa19-2252-41e9-8654-a3914c198748" />
+
+
 ## Topics Covered
 
 * Graph Search Algorithms
@@ -47,8 +54,17 @@ Through a combination of theoretical learning and hands-on programming projects,
 
 By completing this course, I developed a strong understanding of the core principles of artificial intelligence and learned how to apply them to real-world problems. The course provided hands-on experience with search algorithms, machine learning models, probabilistic reasoning, and natural language processing, enabling me to design and implement intelligent systems using Python.
 
-## Certificate
+## 📜 License
 
-**Course:** CS50's Introduction to Artificial Intelligence with Python
-**Provider:** HarvardX via edX
+This project is licensed under the ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+
+
+
+## 👨‍💻 Author
+
+**Najmul Alam Efti**
+
+🎓 Premier University, Chittagong
+
+📧 \[najmul27alam@gmail.com]
 
